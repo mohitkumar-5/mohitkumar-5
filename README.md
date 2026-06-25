@@ -3,11 +3,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=FF6EC7&center=true&vCenter=true&repeat=true&random=false&width=650&lines=Learning+by+Building.;Always+Exploring+New+Possibilities."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1800&pause=400&color=61DAFB&center=true&vCenter=true&repeat=true&width=650&lines=Learning+by+Building.;Always+Exploring+New+Possibilities."
     alt="Typing SVG"
   />
 </p>
 ```
+
+
 
 
 
