@@ -26,15 +26,16 @@ I enjoy solving **real-world problems** by building **practical applications** a
 
 <br>
 
+
 ## 🌐 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-kumar-7b18243b2/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/mohitkumar_17/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 
@@ -44,36 +45,21 @@ I enjoy solving **real-world problems** by building **practical applications** a
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<a href="https://opencv.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<a href="https://www.mathworks.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
 </p>
+```
