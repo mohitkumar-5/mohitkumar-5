@@ -26,7 +26,35 @@ I enjoy solving **real-world problems** by building **practical applications** a
 
 <br>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohit-kumar-7b18243b2/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/> </a> <a href="https://leetcode.com/u/mohitkumar_17/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/> </a> </p> <br> ## 🛠️ Languages & Tools <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45"/> </a> </p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohit-kumar-7b18243b2/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/mohitkumar_17/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
+
+<br>
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-FFD43B?style=for-the-badge)
+![Hugging%20Face](https://img.shields.io/badge/HUGGING_FACE-FFCC00?style=for-the-badge)
+
+
 
 
 
