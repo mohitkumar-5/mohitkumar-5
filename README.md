@@ -19,7 +19,7 @@
 
 I'm an **Electronics & Communication Engineering** student at **Thapar Institute of Engineering & Technology**, passionate about building intelligent software and solving real-world problems through technology.
 
-My interests include **Software Development, Artificial Intelligence, Machine Learning, Data Science, and Large Language Models (LLMs)**. I enjoy developing AI-powered applications, exploring modern technologies, and continuously improving my problem-solving skills through hands-on projects and Data Structures & Algorithms.
+My interests include **Software Development, Artificial Intelligence, Machine Learning, Data Science, and Large Language Models (LLMs)**.  I enjoy developing AI-powered applications, exploring modern technologies, and continuously improving my problem-solving skills through hands-on projects and Data Structures & Algorithms.
 
 <br>
 
