@@ -17,9 +17,10 @@
 
 ## 🧠 About Me
 
-I'm an **Electronics & Communication Engineering** student at **Thapar Institute of Engineering & Technology**, passionate about building intelligent systems that combine **Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs)** to solve real-world problems.
+I'm an Electronics & Communication Engineering student at Thapar Institute of Engineering & Technology with a passion for building intelligent systems using machine learning, computer vision, RAG, and LLMs to solve real-world problems.
 
-I enjoy transforming ideas into practical applications, exploring emerging AI technologies, and building scalable software that creates meaningful impact.
+I enjoy exploring emerging technologies and turning ideas into practical, scalable applications.
+
 
 
 <br>
